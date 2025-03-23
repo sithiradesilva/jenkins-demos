@@ -57,7 +57,7 @@ pipeline {
                         git push https://github.com/sithiradesilva/jenkins-demos/python-jenkins-argocd-k8s/deploy HEAD:main
                         '''                        
                     }
-                }
+                
             }
         }
     }
